@@ -1,3 +1,12 @@
+# Income Tax Calculator for 2019-2020
+
+Demo of a Simple Tax Calculator App implemented using React.
+
+## Tools
+
+- ReactJS
+- Bootstrap v4
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
