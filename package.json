@@ -1,6 +1,6 @@
 {
   "name": "tax-calculator",
-  "homepage": "https://fsdev01.github.io/tax-calculator/",
+  "homepage": "https://fsdev01.github.io/taxCalculator/",
   "version": "1.0.0",
   "private": true,
   "dependencies": {
