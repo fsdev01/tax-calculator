@@ -8,9 +8,7 @@ Demo of a Simple Tax Calculator App implemented using React.
 - Bootstrap v4
 
 **Link to App** https://fsdev01.github.io/tax-calculator/
-This project was bootstrapped with 
-
-<br/>[Create React App](https://github.com/facebook/create-react-app).
+<br/> This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
